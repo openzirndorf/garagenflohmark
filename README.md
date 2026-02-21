@@ -3,6 +3,12 @@
 Webanwendung zur Anmeldung und Verwaltung von Angeboten für den Garagenflohmarkt in Zirndorf.
 Entwickelt von Open Zirndorf – offen, lokal, gemeinschaftlich.
 
+## Beispiel Screenshots 
+
+![screenshot1](docs/screen1.png)
+
+![screenshot2](docs/screen2.png)
+
 ## 🛠️ Technologien
 
 * PHP 
