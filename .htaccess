@@ -1,0 +1,11 @@
+<Files "db.php">
+  Require all denied
+</Files>
+
+<Files "functions.php">
+  Require all denied
+</Files>
+
+<Files ".env">
+  Require all denied
+</Files>
